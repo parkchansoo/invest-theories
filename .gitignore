@@ -4,8 +4,14 @@ default/_scripts/.env
 # 증권사 세션/토큰
 default/_trade-data/sessions/
 
-# 원본 거래내역 PDF (개인 금융 자료)
+# 거래내역 원본/파싱 결과 (개인 금융 자료)
 raws/
+default/_trade-data/originals/*
+!default/_trade-data/originals/.gitkeep
+default/_trade-data/parsed/*
+!default/_trade-data/parsed/.gitkeep
+default/_trade-data/output/*
+!default/_trade-data/output/.gitkeep
 
 # OMC 세션/상태
 .omc/
