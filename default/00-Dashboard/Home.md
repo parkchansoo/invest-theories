@@ -5,7 +5,7 @@ tags:
 
 # 투자 대시보드
 
-> 마지막 업데이트: 2026-04-26 (자동 갱신 — `build_map.py`)
+> 마지막 업데이트: 2026-04-27 (자동 갱신 — `build_map.py`)
 
 ---
 
@@ -19,7 +19,34 @@ tags:
 
 ## 관심 종목 (Watchlist)
 
-(아직 관심종목이 없습니다)
+### 한국
+| 종목 | 상태 |
+|------|------|
+| [[000660-SK하이닉스\|000660-SK하이닉스]] | `closed` |
+| [[005930-삼성전자\|005930-삼성전자]] | `closed` |
+| [[064850-에프앤가이드\|064850-에프앤가이드]] | `closed` |
+| [[069500-KODEX200\|069500-KODEX200]] | `closed` |
+| [[086450-동국제약\|086450-동국제약]] | `closed` |
+| [[105560-KB금융\|105560-KB금융]] | `closed` |
+| [[194480-데브시스터즈\|194480-데브시스터즈]] | `closed` |
+| [[352820-하이브\|352820-하이브]] | `closed` |
+
+### 미국
+| 종목 | 상태 |
+|------|------|
+| [[AAPL-Apple\|AAPL-Apple]] | `holding` |
+| [[AMTD-AMTDDigital\|AMTD-AMTDDigital]] | `closed` |
+| [[BRK.B-BerkshireHathaway\|BRK.B-BerkshireHathaway]] | `holding` |
+| [[CPNG-Coupang\|CPNG-Coupang]] | `closed` |
+| [[GOOG-AlphabetC\|GOOG-AlphabetC]] | `holding` |
+| [[GOOGL-Alphabet\|GOOGL-Alphabet]] | `holding` |
+| [[LRCX-LamResearch\|LRCX-LamResearch]] | `holding` |
+| [[META-Meta\|META-Meta]] | `closing` |
+| [[NVDA-NVIDIA\|NVDA-NVIDIA]] | `holding` |
+| [[PLTR-Palantir\|PLTR-Palantir]] | `holding` |
+| [[QCOM-Qualcomm\|QCOM-Qualcomm]] | `holding` |
+| [[SPY-SPDR_SP500\|SPY-SPDR_SP500]] | `holding` |
+| [[TSLA-Tesla\|TSLA-Tesla]] | `holding` |
 
 ---
 
@@ -27,10 +54,14 @@ tags:
 
 | 날짜 | 종목 | 매수/매도 | 매매일지 |
 |------|------|-----------|----------|
-| 2026-04-16 |  (A000660) | 매도 | [[2026-04-16-매도-SK하이닉스]] |
-| 2026-04-08 |  (A000660) | 매도 | [[2026-04-08-매도-SK하이닉스]] |
+| 2026-04-26 |  () |  | [[2026-04-26-체결내역-all]] |
+| 2026-04-26 |  () |  | [[2026-04-26-5년-거래내역-피드백]] |
+| 2026-04-20 |  (A000660) | 매도 | [[2026-04-20-매도-SK하이닉스]] |
+| 2026-04-10 |  (A000660) | 매도 | [[2026-04-10-매도-SK하이닉스]] |
+| 2026-04-06 |  (A000660) | 매수 | [[2026-04-06-매수-SK하이닉스]] |
+| 2026-04-03 |  (A000660) | 매도 | [[2026-04-03-매도-SK하이닉스]] |
 | 2026-04-02 |  (A000660) | 매수 | [[2026-04-02-매수-SK하이닉스]] |
-| 2026-04-01 |  (A000660) | 매도 | [[2026-04-01-매도-SK하이닉스]] |
+| 2026-04-01 |  (A000660) | 매수 | [[2026-04-01-매수-SK하이닉스]] |
 
 ---
 
