@@ -1,0 +1,27 @@
+# API keys and secrets
+default/_scripts/.env
+
+# 증권사 세션/토큰
+default/_trade-data/sessions/
+
+# 원본 거래내역 PDF (개인 금융 자료)
+raws/
+
+# OMC 세션/상태
+.omc/
+default/_scripts/.omc/
+
+# Claude Code 로컬 오버라이드
+.claude/settings.local.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Obsidian internal
+.obsidian/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db

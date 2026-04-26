@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "kiwoom": {
+      "url": "https://kiwoommcp.cleavework.com/sse",
+      "headers": {
+        "Authorization": "Bearer {{KIWOOM_MCP_TOKEN}}"
+      }
+    }
+  }
+}

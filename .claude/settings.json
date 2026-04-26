@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install yfinance*)",
+      "Bash(pip install yt-dlp*)",
+      "Bash(pip install google-api-python-client*)",
+      "Bash(pip install beautifulsoup4*)",
+      "Bash(pip install lxml*)",
+      "Bash(pip install *--break-system-packages*)",
+      "Bash(cd default/_scripts && python fetch_youtube.py*)",
+      "Bash(cd default/_scripts && python fetch_stock.py*)",
+      "Bash(cd default/_scripts && python fetch_earnings.py*)",
+      "Bash(cd default/_scripts && python compare_stocks.py*)",
+      "Bash(cd default/_scripts && python fetch_dart.py*)",
+      "Bash(cd default/_scripts && python fetch_sec.py*)",
+      "Bash(cd default/_scripts && python build_map.py*)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(mv *)",
+      "Bash(mkdir *)"
+    ]
+  }
+}
